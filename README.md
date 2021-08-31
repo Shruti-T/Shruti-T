@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi👋, I'm Shruti Tiwari
+- :computer: I'm a web developer enthusiast.
+- :pushpin: I'm currently learning backend development.
+- 📫 How to reach me: https://www.linkedin.com/in/shruti-tiwari023/
 <!--
 **Shruti-T/Shruti-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
