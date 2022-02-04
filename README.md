@@ -1,7 +1,7 @@
-### Hi👋, I'm Shruti Tiwari
+<!-- ### Hi👋, I'm Shruti Tiwari
 - :computer: I'm a web developer enthusiast.
 - :pushpin: I'm currently learning backend development.
-- 📫 How to reach me: https://www.linkedin.com/in/shruti-tiwari023/
+- 📫 How to reach me: https://www.linkedin.com/in/shruti-tiwari023/ -->
 <!--
 **Shruti-T/Shruti-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- 
+
 <h1 align="center">Hi 👋, I'm Shruti Tiwari</h1>
 <h3 align="center">A passionate Web developer:)</h3>
 
@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shruti-t&show_icons=true&locale=en&layout=compact" alt="shruti-t" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shruti-t&" alt="shruti-t" /></p>
- -->
+
