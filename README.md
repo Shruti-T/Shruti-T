@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Shruti Tiwari</h1>
 <h3 align="center">A passionate Web developer:)</h3>
 
-<p align="right"> <a href="https://github-profile-trophy.vercel.app/?username=shruti-t&title=Joined2020&title=Commits&title=Repository&margin-w=15&theme=darkhub"><img src="https://github-profile-trophy.vercel.app/?username=shruti-t&title=Joined2020&title=Commits&title=Repository&margin-w=15&theme=darkhub" alt="shruti-t" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=shruti-t&title=Joined2020&title=Commits&title=Repository&margin-w=15&theme=darkhub"><img src="https://github-profile-trophy.vercel.app/?username=shruti-t&title=Joined2020&title=Commits&title=Repository&margin-w=15&theme=darkhub" alt="shruti-t" /></a> </p>
 
 <!-- 
 <h3 align="left">Connect with me:</h3>
@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shruti-t&show_icons=true&locale=en&layout=compact" alt="shruti-t" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shruti-t&" alt="shruti-t" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shruti-t&theme=highcontrast" alt="shruti-t" /></p>
 
