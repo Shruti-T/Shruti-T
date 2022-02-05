@@ -1,7 +1,4 @@
 <!-- ### Hi👋, I'm Shruti Tiwari -->
-- :computer: I'm a web developer enthusiast.
-- :pushpin: I'm currently learning backend development.
-- 📫 How to reach me: https://www.linkedin.com/in/shruti-tiwari023/
 <!--
 **Shruti-T/Shruti-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,6 +16,10 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Shruti Tiwari</h1>
 <h3 align="center">A passionate Web developer:)</h3>
+
+- :computer: I'm a web developer enthusiast.
+- :pushpin: I'm currently learning backend development.
+- 📫 How to reach me: https://www.linkedin.com/in/shruti-tiwari023/
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=shruti-t&title=Joined2020&title=Commits&title=Repository&margin-w=15&theme=darkhub"><img src="https://github-profile-trophy.vercel.app/?username=shruti-t&title=Joined2020&title=Commits&title=Repository&margin-w=15&theme=darkhub" alt="shruti-t" /></a> </p>
 
