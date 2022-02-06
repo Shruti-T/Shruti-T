@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github.com/Shruti-T/Shruti-T/blob/main/3.png">
+<!-- <img src="https://github.com/Shruti-T/Shruti-T/blob/main/3.png"> -->
 <h1 align="center">Hi 👋, I'm Shruti Tiwari</h1>
 <h3 align="center">A passionate Web developer:)</h3>
 
