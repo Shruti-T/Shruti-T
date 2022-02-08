@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- <img src="https://github.com/Shruti-T/Shruti-T/blob/main/banner.gif"> -->
-<h1 align="center">Hi 👋, I'm Shruti Tiwari</h1>
-<h3 align="center">A passionate Web developer:)</h3>
+<img src="https://github.com/Shruti-T/Shruti-T/blob/main/gif.gif">
+<!-- <h1 align="center">Hi 👋, I'm Shruti Tiwari</h1> -->
+<h3 align="center">Whatever you do, do it well. –Walt Disney</h3>
 
 - :computer: I'm a web developer enthusiast.
 - :pushpin: I'm currently learning backend development.
