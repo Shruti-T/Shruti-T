@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github.com/Shruti-T/Shruti-T/blob/main/gif.gif">
+<img src="https://github.com/Shruti-T/Shruti-T/blob/main/gif2.gif">
 <!-- <h1 align="center">Hi 👋, I'm Shruti Tiwari</h1> -->
 <h3 align="center">Whatever you do, do it well:)</h3>
 
@@ -25,11 +25,10 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=shruti-t&title=Joined2020&title=Commits&title=Repository&margin-w=15&theme=darkhub"><img src="https://github-profile-trophy.vercel.app/?username=shruti-t&title=Joined2020&title=Commits&title=Repository&margin-w=15&theme=darkhub" alt="shruti-t" /></a> </p>
 
-<!-- 
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shruti-tiwari-81b519191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shruti-tiwari-81b519191" height="20" width="30" /></a>  -->
-
 
 <!-- </p>
 <h3 align="left">Languages and Tools:</h3>
@@ -38,4 +37,3 @@ Here are some ideas to get you started:
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shruti-t&show_icons=true&locale=en&layout=compact" alt="shruti-t" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shruti-t&theme=highcontrast" alt="shruti-t" /></p>
-
