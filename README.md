@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 - How to reach me:
   - 📫https://www.linkedin.com/in/shruti-tiwari023/
   - 📧sh03shruti@gmail.com
+- My portfolio website:
+  - :star2: https://shruti-portfolio.netlify.app/
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=shruti-t&title=Joined2020&title=Commits&title=Repository&margin-w=15&theme=darkhub"><img src="https://github-profile-trophy.vercel.app/?username=shruti-t&title=Joined2020&title=Commits&title=Repository&margin-w=15&theme=darkhub" alt="shruti-t" /></a> </p>
 
