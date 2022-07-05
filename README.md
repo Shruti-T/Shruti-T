@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - My portfolio website:
   - :star2: https://shruti-portfolio.netlify.app/
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=shruti-t&title=Joined2020&title=Commits&title=Repository&margin-w=15&theme=darkhub"><img src="https://github-profile-trophy.vercel.app/?username=shruti-t&title=Joined2020&title=Commits&title=Repository&margin-w=15&theme=darkhub" alt="shruti-t" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=shruti-t&title=Joined2020&title=Commits&title=Repository&margin-w=15&theme=darkhub"><img src="https://github-profile-trophy.vercel.app/?username=shruti-t&title=Joined2020&title=Commits&title=Repository&title=PullRequest&margin-w=15&theme=darkhub" /></a> </p>
 
 <!--
 <h3 align="left">Connect with me:</h3>
