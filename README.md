@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/Shruti-T/Shruti-T/blob/main/gif2.gif">
 <!-- <h1 align="center">Hi 👋, I'm Shruti Tiwari</h1> -->
 <!-- <h3 align="center">Dream It, Believe It, Build It!</h3> -->
-<h3 align="center">There is no Substitute for HardWork</h3>
+<h3 align="center">There is no Substitute for HardWork.</h3>
 
 - :computer: I'm a web developer enthusiast.
 - :pushpin: I'm currently learning backend development.
