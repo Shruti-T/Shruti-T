@@ -6,8 +6,8 @@
 <!-- <h3 align="center">Dream It, Believe It, Build It!</h3> -->
 <h3 align="center">There is no Substitute for HardWork.</h3>
 
-- :computer: I'm a web developer enthusiast.
-- :pushpin: I'm currently learning backend development.
+- :computer: I'm a software developer enthusiast.
+- :pushpin: upscaling every day!
 - How to reach me:
   - 📫https://www.linkedin.com/in/shruti-tiwari023/
   - 📧sh03shruti@gmail.com
